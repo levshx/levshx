@@ -11,6 +11,7 @@ Hi, my name is Pavel Levshic Sergeevich, below are some of the stacks I've been 
     - C/C++/objC - Basic;
     - C# - Basic;
     - LUA - Basic;
+    - GLSL - Basic;
 
 - Frontend:
     - AngularJs;
@@ -18,8 +19,8 @@ Hi, my name is Pavel Levshic Sergeevich, below are some of the stacks I've been 
     - Bootstrap;
 
 - Backend:
-    - PHP;
-    - Nim (sockets); 
+    - PHP/Laravel;
+    - Nim (sockets);
 
 - Database:
     - PostgreSQL;
@@ -28,15 +29,14 @@ Hi, my name is Pavel Levshic Sergeevich, below are some of the stacks I've been 
     - OracleDB;
 
 - Architecture:
-    - MVC pattern
+    - MVC pattern;
     - SPA (Single Page Application);
     - PWA (Progressive Web App);
-    - Database Migrations;
     - Blockchain architecture;
 
 - Tests:
-    - Nimtest
-    - MSTest
+    - Nimtest;
+    - MSTest;
 
 - Deployment:
     - Apache;
@@ -45,8 +45,11 @@ Hi, my name is Pavel Levshic Sergeevich, below are some of the stacks I've been 
 
 - Cloud:
     - Google Cloud Platform;
-    - Google Colab/Jupyter  
+    - Google Colab/Jupyter;
 
 - CI/CD:
     - Github Actions;
-    - Native (Nim)
+    - Native (Nim);
+    
+- Specifications:
+    - OpenGL
