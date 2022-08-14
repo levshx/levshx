@@ -30,7 +30,7 @@ Hi, my name is Pavel Levshic Sergeevich, below are some of the stacks I've been 
     - OracleDB;
 
 - Architecture:
-    - MVC pattern;
+    - MVC (Model View Controller);
     - SPA (Single Page Application);
     - PWA (Progressive Web App);
     - Blockchain architecture;
