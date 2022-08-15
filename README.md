@@ -17,7 +17,7 @@ Hi, my name is Pavel Levshic Sergeevich, below are some of the stacks I've been 
     - AngularJs;
     - jQuery;
     - Bootstrap;
-    - three.js
+    - three.js;
 
 - Backend:
     - PHP/Laravel;
@@ -53,4 +53,4 @@ Hi, my name is Pavel Levshic Sergeevich, below are some of the stacks I've been 
     - Native (Nim);
     
 - Specifications:
-    - OpenGL
+    - OpenGL;
