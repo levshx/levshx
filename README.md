@@ -1,5 +1,5 @@
 
-Hi, my name is Pavel Levshic Sergeevich, below are some of the stacks I've been accumulating during my years of work and study.
+Hi, my name is Pavel Levshic, below are some of the stacks I've been accumulating during my years of work and study.
 
 - Languages:
     - HTML;
@@ -21,7 +21,7 @@ Hi, my name is Pavel Levshic Sergeevich, below are some of the stacks I've been 
 
 - Backend:
     - PHP/Laravel;
-    - Nim (sockets);
+    - Nim (html-gen, rest, sockets);
 
 - Database:
     - PostgreSQL;
