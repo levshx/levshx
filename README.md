@@ -4,7 +4,7 @@ Hi, my name is Pavel Levshic, below are some of the stacks I've been accumulatin
 - Languages:
     - HTML;
     - CSS;
-    - PHP - Advanced;
+    - PHP - Basic;
     - JavaScript/Typescript - Advanced;
     - Python - Basic;
     - Nim - Basic;
@@ -14,27 +14,22 @@ Hi, my name is Pavel Levshic, below are some of the stacks I've been accumulatin
     - GLSL - Basic;
 
 - Frontend:
-    - AngularJs;
     - jQuery;
     - Bootstrap;
     - three.js;
 
 - Backend:
-    - PHP/Laravel;
+    - PHP/Laravel hello world :D;
     - Nim (html-gen, rest, sockets);
 
 - Database:
-    - PostgreSQL;
     - MySQL;
-    - MongoDB;
-    - OracleDB;
-
+ 
 - Architecture:
     - MVC (Model View Controller);
     - SPA (Single Page Application);
     - PWA (Progressive Web App);
-    - Blockchain architecture;
-
+   
 - Tests:
     - Nimtest;
     - MSTest;
