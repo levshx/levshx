@@ -7,10 +7,10 @@ Hi, my name is Pavel Levshic, below are some of the stacks I've been accumulatin
     - PHP - Basic;
     - JavaScript/Typescript - Advanced;
     - Python - Basic;
-    - Nim - Basic;
+    - Nim - Advanced;
     - C/C++/objC - Basic;
     - C# - Basic;
-    - LUA - Basic;
+    - LUA - Advanced;
     - GLSL - Basic;
 
 - Frontend:
@@ -37,7 +37,6 @@ Hi, my name is Pavel Levshic, below are some of the stacks I've been accumulatin
 - Deployment:
     - Apache;
     - nginx;
-    - Docker & Docker Compose;
 
 - Cloud:
     - Google Cloud Platform;
