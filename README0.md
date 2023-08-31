@@ -5,7 +5,7 @@ Hi, my name is Pavel Levshic, below are some of the stacks I've been accumulatin
     - HTML;
     - CSS;
     - PHP - Basic;
-    - JavaScript/Typescript - Advanced;
+    - JavaScript/Typescript - Basic;
     - Python - Basic;
     - Nim - Advanced;
     - C/C++/objC - Basic;
