@@ -1,4 +1,3 @@
 Hi im Pasha :D
 
-[![Discord](https://img.shields.io/discord/1066475633544265838?label=Discord)](https://discord.gg/dyWvUmgk)
-
+![achievement](https://user-images.githubusercontent.com/79142358/201485976-659bcdc0-75ed-4609-8dc4-7ca4ffd2ff7a.png)
